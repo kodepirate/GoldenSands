@@ -4,6 +4,9 @@
 
 Welcome to the **Golden Sands** repository. This isn't just a winery website template; it's an absolute masterpiece of digital elegance, built for those who understand true quality. We're talking high-end animations, dark-mode-first design, and gold accents that scream "premium."
 
+### 🎥 See It In Action
+[![Watch the walkthrough](https://cdn.loom.com/sessions/thumbnails/231d8b77cdf6473b9dd0e84204341397-with-play.gif)](https://www.loom.com/share/231d8b77cdf6473b9dd0e84204341397)
+
 ## ✨ The Flex (Features)
 
 - **Preloader:** Smooth, buttery animated brand reveal.
